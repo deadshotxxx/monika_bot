@@ -23,3 +23,4 @@ typing_extensions==4.14.0
 tzdata==2025.2
 tzlocal==5.3.1
 XlsxWriter==3.2.3
+aiogram==3.4.1
